@@ -1,0 +1,33 @@
+html,body,#app{
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  min-width: 1268px;
+
+}
+.el-breadcrumb {
+  margin-bottom: 15px;
+  font-size: 12px;
+}
+
+.el-pagination {
+  margin-top: 15px;
+}
+
+.el-breadcrumb {
+  cursor: pointer;
+  padding: 10px 0 10px 15px;
+  margin-bottom: 15px;
+  line-height: 30px;
+  border-radius: 15px;
+  box-shadow: 0 0 10px rgba(100, 100, 100, 0.5);
+  background-color: #fff;
+}
+.el-card {
+  box-shadow: 0 0 5px rgba(100, 100, 100, 0.5);
+  border-radius: 15px;
+}
+.el-row {
+  line-height: 50px;
+  margin-bottom: 20px;
+}
